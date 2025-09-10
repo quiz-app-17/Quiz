@@ -1,0 +1,45 @@
+body {
+  background-image: url("Indian-Flag.jpg");
+  background-size: cover;       
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  font-family: Arial, sans-serif;
+
+  font-family: Arial, sans-serif;
+}
+
+.quiz-container {
+  width: 400px;
+  margin: 100px auto;
+  background: rgba(0, 0, 0, 0);
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background: #ffffff;
+  color: rgba(0, 0, 0, 0.897);
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #ffffff;
+}
